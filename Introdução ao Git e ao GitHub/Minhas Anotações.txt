@@ -1,0 +1,19 @@
+link para downloan do git
+https://git-scm.com/downloads
+O Git Bash é um terminal estendido para otmizar o uso do Git.
+
+git init
+git add *
+git commit 
+
+cd(navegar)
+dir(listar)
+ls(listar)
+cd..(voltar)
+ctrl+l(limpar)
+mkdir(criar)
+echo >
+
+
+servidor = remote
+ambiente de desenvolvimento = local
